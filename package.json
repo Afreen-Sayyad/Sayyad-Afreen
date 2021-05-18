@@ -1,0 +1,12 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "MY FIRST NODE AND EXPRESS SERVER BMI CALCULATOR",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "SAYYAD AFREEN",
+  "license": "ISC"
+}
